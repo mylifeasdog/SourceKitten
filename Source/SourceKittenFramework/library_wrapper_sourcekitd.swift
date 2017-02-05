@@ -2,7 +2,11 @@
 import SourceKit
 #endif
 #if os(Linux)
+#if swift(>=3.1)
+private let path = "sourcekitdInProc.framework/sourcekitdInProc"
+#else
 private let path = "libsourcekitdInProc.so"
+#endif
 #else
 private let path = "sourcekitd.framework/Versions/A/sourcekitd"
 #endif
