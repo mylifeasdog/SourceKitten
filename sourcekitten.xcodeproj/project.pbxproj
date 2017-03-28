@@ -266,8 +266,6 @@
 				5499CA961A2394B700783309 /* Components.plist */,
 				5499CA971A2394B700783309 /* Info.plist */,
 				E834D61D1B2D054B002AA1FE /* Result.framework */,
-				E8C0DFCC1AD349DB007EE3D4 /* SWXMLHash.framework */,
-				E80678041CF2749300AFC816 /* Yams.framework */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -459,6 +457,8 @@
 		D0D1217C19E87B05005E4BAA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E8C0DFCC1AD349DB007EE3D4 /* SWXMLHash.framework */,
+				E80678041CF2749300AFC816 /* Yams.framework */,
 				D0D1217D19E87B05005E4BAA /* Info.plist */,
 			);
 			name = "Supporting Files";
