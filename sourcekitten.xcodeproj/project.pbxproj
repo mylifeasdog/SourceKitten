@@ -13,6 +13,7 @@
 		3DEF4C591DBF9C2D00B3B54A /* DocInfoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEF4C581DBF9C2D00B3B54A /* DocInfoTests.swift */; };
 		3F0CBB411BAAFF160015BBA8 /* Clang+SourceKitten.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0CBB401BAAFF160015BBA8 /* Clang+SourceKitten.swift */; };
 		3F56EAD01BAB251C006433D0 /* JSONOutput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F56EACF1BAB251C006433D0 /* JSONOutput.swift */; };
+		478D3A101E8A7E360076FED4 /* Yams.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E80678041CF2749300AFC816 /* Yams.framework */; };
 		6C4CF5761C78B47F008532C5 /* library_wrapper_sourcekitd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4CF5721C78B47F008532C5 /* library_wrapper_sourcekitd.swift */; };
 		6C4CF5771C78B47F008532C5 /* library_wrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4CF5741C78B47F008532C5 /* library_wrapper.swift */; };
 		6C4CF6521C798082008532C5 /* library_wrapper_CXString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4CF6481C79802A008532C5 /* library_wrapper_CXString.swift */; };
@@ -251,6 +252,7 @@
 				2C55B3331BEB3CAB002E8C6B /* Commandant.framework in Frameworks */,
 				2C55B3321BEB3CA7002E8C6B /* Result.framework in Frameworks */,
 				D0E7B65319E9C6AD00EDBA4D /* SourceKittenFramework.framework in Frameworks */,
+				478D3A101E8A7E360076FED4 /* Yams.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
