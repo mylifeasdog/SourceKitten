@@ -262,10 +262,12 @@
 		5499CA981A2394BD00783309 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E8EBAA5D1A5D374B002F1B8E /* Commandant.framework */,
 				5499CA961A2394B700783309 /* Components.plist */,
 				5499CA971A2394B700783309 /* Info.plist */,
-				E8EBAA5D1A5D374B002F1B8E /* Commandant.framework */,
 				E834D61D1B2D054B002AA1FE /* Result.framework */,
+				E8C0DFCC1AD349DB007EE3D4 /* SWXMLHash.framework */,
+				E80678041CF2749300AFC816 /* Yams.framework */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -428,8 +430,6 @@
 			children = (
 				E8AB1A2D1A649F2100452012 /* libclang.dylib */,
 				E868473B1A587C6E0043DC65 /* sourcekitd.framework */,
-				E8C0DFCC1AD349DB007EE3D4 /* SWXMLHash.framework */,
-				E80678041CF2749300AFC816 /* Yams.framework */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
